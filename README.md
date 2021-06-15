@@ -19,6 +19,7 @@ You need these packages/applications installed:
 13. `rust`
 14. `npm` - `ts-node` package
 15. `sh`
+16. `jdk8-openjdk` (Its name may be different in your package manager.)
 
 This means;
 1. Assembly
@@ -36,3 +37,4 @@ This means;
 13. Rust
 14. TypeScript
 15. Bash
+16. Java
