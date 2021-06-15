@@ -18,6 +18,7 @@ You need these packages/applications installed:
 12. `ruby`
 13. `rust`
 14. `npm` - `ts-node` package
+15. `sh`
 
 This means;
 1. Assembly
@@ -34,3 +35,4 @@ This means;
 12. Ruby
 13. Rust
 14. TypeScript
+15. Bash
