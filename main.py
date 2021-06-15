@@ -33,4 +33,4 @@ print("TS:")
 s("ts-node hw.ts")
 s("rm *_* *.bin *.o")
 ##Uncomment for cool screenshots.
-s("sleep 1000")
+#s("sleep 1000")
