@@ -17,6 +17,7 @@ You need these packages/applications installed:
 11. `python3`
 12. `ruby`
 13. `rust`
+14. `npm` - `ts-node` package
 
 This means;
 1. Assembly
@@ -32,3 +33,4 @@ This means;
 11. Python
 12. Ruby
 13. Rust
+14. TypeScript

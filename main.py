@@ -27,6 +27,8 @@ print("Ruby:")
 s("ruby hw.rb")
 print("Rust:")
 s("rustc hw.rs -o hw_rs && ./hw_rs")
+print("TS:")
+s("ts-node hw.ts")
 s("rm *_* *.bin *.o")
 ##Uncomment for cool screenshots.
 s("sleep 1000")
