@@ -20,6 +20,7 @@ You need these packages/applications installed:
 14. `npm` - `ts-node` package
 15. `sh`
 16. `jdk8-openjdk` (Its name may be different in your package manager.)
+17. `v` (Github: vlang/v)
 
 This means;
 1. Assembly
@@ -39,3 +40,4 @@ This means;
 15. Bash
 16. Java
 17. LXL
+18. V

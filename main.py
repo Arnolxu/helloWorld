@@ -35,6 +35,8 @@ print("Bash:")
 s("sh hw.sh")
 print("TS:")
 s("ts-node hw.ts")
+print("V:")
+s("v hw.v -o hw_v && ./hw_v")
 s("rm *_* *.bin *.o *.class")
 ##Uncomment for cool screenshots.
 #s("sleep 3600")
